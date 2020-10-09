@@ -1,0 +1,14 @@
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\bin\Debug\netcoreapp3.1\Conference.Infra.deps.json
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\bin\Debug\netcoreapp3.1\Conference.Infra.runtimeconfig.json
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\bin\Debug\netcoreapp3.1\Conference.Infra.runtimeconfig.dev.json
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\bin\Debug\netcoreapp3.1\Conference.Infra.dll
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\bin\Debug\netcoreapp3.1\Conference.Infra.pdb
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\bin\Debug\netcoreapp3.1\Conference.Domain.dll
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\bin\Debug\netcoreapp3.1\Conference.Domain.pdb
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\obj\Debug\netcoreapp3.1\Conference.Infra.csprojAssemblyReference.cache
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\obj\Debug\netcoreapp3.1\Conference.Infra.AssemblyInfoInputs.cache
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\obj\Debug\netcoreapp3.1\Conference.Infra.AssemblyInfo.cs
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\obj\Debug\netcoreapp3.1\Conference.Infra.csproj.CopyComplete
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\obj\Debug\netcoreapp3.1\Conference.Infra.dll
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\obj\Debug\netcoreapp3.1\Conference.Infra.pdb
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Infra\obj\Debug\netcoreapp3.1\Conference.Infra.genruntimeconfig.cache

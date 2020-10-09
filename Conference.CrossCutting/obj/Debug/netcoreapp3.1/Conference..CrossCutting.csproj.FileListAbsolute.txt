@@ -1,0 +1,15 @@
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\bin\Debug\netcoreapp3.1\Conference..CrossCutting.deps.json
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\bin\Debug\netcoreapp3.1\Conference..CrossCutting.dll
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\bin\Debug\netcoreapp3.1\Conference..CrossCutting.pdb
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\bin\Debug\netcoreapp3.1\Conference..Domain.dll
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\bin\Debug\netcoreapp3.1\Conference..Infra.dll
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\bin\Debug\netcoreapp3.1\Conference.Aplication.dll
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\bin\Debug\netcoreapp3.1\Conference.Aplication.pdb
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\bin\Debug\netcoreapp3.1\Conference..Domain.pdb
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\bin\Debug\netcoreapp3.1\Conference..Infra.pdb
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\obj\Debug\netcoreapp3.1\Conference..CrossCutting.csprojAssemblyReference.cache
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\obj\Debug\netcoreapp3.1\Conference..CrossCutting.AssemblyInfoInputs.cache
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\obj\Debug\netcoreapp3.1\Conference..CrossCutting.AssemblyInfo.cs
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\obj\Debug\netcoreapp3.1\Conference..CrossCutting.csproj.CopyComplete
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\obj\Debug\netcoreapp3.1\Conference..CrossCutting.dll
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\CrossCutting\obj\Debug\netcoreapp3.1\Conference..CrossCutting.pdb

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.0.0" />
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Conferencia.Aplication\Conference.Aplication.csproj" />
+    <ProjectReference Include="..\Conferencia.Domain\Conference.Domain.csproj" />
+    <ProjectReference Include="..\Conferencia.Infra\Conference.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Domain\bin\Debug\netcoreapp3.1\Conferencia.Domain.deps.json
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Domain\bin\Debug\netcoreapp3.1\Conferencia.Domain.dll
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Domain\bin\Debug\netcoreapp3.1\Conferencia.Domain.pdb
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Domain\obj\Debug\netcoreapp3.1\Conferencia.Domain.csprojAssemblyReference.cache
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Domain\obj\Debug\netcoreapp3.1\Conferencia.Domain.AssemblyInfoInputs.cache
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Domain\obj\Debug\netcoreapp3.1\Conferencia.Domain.AssemblyInfo.cs
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Domain\obj\Debug\netcoreapp3.1\Conferencia.Domain.dll
+C:\Users\valeria.aquino\Desktop\metas\BaixaMercadoTech\Conferencia.Domain\obj\Debug\netcoreapp3.1\Conferencia.Domain.pdb
